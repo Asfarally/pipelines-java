@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/asfarallymbuhora/VSTS_Beta/_apis/build/status/Asfarally.pipelines-java?branchName=master)](https://dev.azure.com/asfarallymbuhora/VSTS_Beta/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
